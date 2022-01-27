@@ -20,6 +20,7 @@ How to run it?
 7. composer install
 8. cp .env.example .env
 9. php artisan key:generate
-10. php artisan serve
+10. php artisan migrate
+11. php artisan serve
 
 Open project on localhost:8000
